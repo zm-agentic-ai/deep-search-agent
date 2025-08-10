@@ -1,7 +1,7 @@
 [project]
-name = "deep-search-assignment"
+name = "deep-search-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "deep-search-agent"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
