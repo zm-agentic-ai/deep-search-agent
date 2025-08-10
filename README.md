@@ -14,3 +14,4 @@ It stores user-specific prompt history based on email, allowing you to revisit p
    ```bash
    git clone https://github.com/zm-agentic-ai/deep-search-agent.git
    cd deep-search-agent
+   pip install tavily-python
